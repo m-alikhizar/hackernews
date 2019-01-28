@@ -1,16 +1,15 @@
-# dependencies
-/node_modules
-/server/node_modules
-/client/node_modules
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-TODOS
-
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+node_modules
+logs
+coverage
+
+.next
+build/static
+build/app
+.env
+
+.DS_Store
