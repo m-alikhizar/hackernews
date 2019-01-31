@@ -1,0 +1,107 @@
+export default {
+  top: [
+    1224
+  ],
+  new: [ 1224, 1227 ],
+  topStoriesCache: [
+    {
+      id: 1224,
+      creationTime: 1504740146516,
+      submitterId: 'hvo',
+      title: '“Learning How to Learn,” the most popular course on Coursera',
+      text: null,
+      url: 'https://www.nytimes.com/2017/08/04/education/edlife/learning-how-to-learn-barbara-oakley.html?hpw&rref=education&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well',
+      upvotes: [],
+      upvoted: false,
+      hides: [],
+      hidden: false,
+      hiddenCount: 0,
+      comments: [
+        15289630,
+        15289567,
+      ],
+      commentCount: 44,
+      upvoteCount: 171,
+      rank: 1,
+    }
+  ],
+  newStoriesCache: [
+    {
+      id: 2000,
+      creationTime: new Date().valueOf(),
+      submitterId: 'new_user',
+      title: 'I love graphQL!!',
+      text: null,
+      url: 'https://www.graphql.org',
+      upvotes: [],
+      upvoted: false,
+      hides: [],
+      hidden: false,
+      hiddenCount: 0,
+      comments: [],
+      commentCount: 44,
+      upvoteCount: 171,
+    },
+  ],
+  newsItems: [
+    {
+      id: 1224,
+      creationTime: 1504740146516,
+      submitterId: 'hvo',
+      title: '“Learning How to Learn,” the most popular course on Coursera',
+      text: null,
+      url: 'https://www.nytimes.com/2017/08/04/education/edlife/learning-how-to-learn-barbara-oakley.html?hpw&rref=education&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well',
+      upvotes: [],
+      upvoted: false,
+      hides: [],
+      hidden: false,
+      hiddenCount: 0,
+      comments: [],
+      commentCount: 44,
+      upvoteCount: 171,
+    },
+    {
+      id: 1227,
+      creationTime: 1504740146516,
+      submitterId: 'hvo',
+      title: 'Water Found Deep Inside the Moon',
+      text: null,
+      url: 'https://www.nytimes.com/2017/08/04/education/edlife/learning-how-to-learn-barbara-oakley.html?hpw&rref=education&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well',
+      upvotes: [],
+      upvoted: false,
+      hides: [],
+      hidden: false,
+      hiddenCount: 0,
+      comments: [],
+      commentCount: 44,
+      upvoteCount: 455,
+    },
+  ],
+  comments: [
+    {
+      id: 123331,
+      creationTime: 1504740146516,
+      commenterId: 'clintonwoo',
+      text: 'I know this might come accross as bragging, but I just won the internet again.',
+      upvotes: ['clintonwoo', 'john'],
+      upvoteCount: 2,
+      hides: [],
+      hidden: false,
+      hiddenCount: 0,
+    }
+  ],
+  users: [
+    {
+      id: 'khizarali', // aka. username
+      about: 'Software Engineer.',
+      creationTime: 1506024614000,
+      dateOfBirth: 723618000000,
+      email: '',
+      firstName: '',
+      hides: [],
+      karma: 1,
+      lastName: '',
+      posts: [],
+    }
+  ],
+};
