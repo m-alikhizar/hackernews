@@ -13,3 +13,6 @@ build/app
 .env
 
 .DS_Store
+
+aside
+docs
